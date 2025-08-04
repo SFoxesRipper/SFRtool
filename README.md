@@ -1,17 +1,5 @@
 # 🛠️ SFRtool - Windows Activation & Management Tool
 
-<div align="center">
-
-![SFRtool Logo](https://img.shields.io/badge/SFRtool-v1.0.1-blue?style=for-the-badge&logo=windows&logoColor=white)
-[![Website](https://img.shields.io/badge/Website-Visit-green?style=for-the-badge&logo=github-pages)](https://sfoxesripper.github.io/SFRtool/)
-[![Downloads](https://img.shields.io/github/downloads/SFoxesRipper/SFRtool/total?style=for-the-badge&logo=download&logoColor=white)](https://github.com/SFoxesRipper/SFRtool/releases)
-
-**🔧 Powerful Windows activation and system management utility**
-
-[📥 Download](#-downloads) • [🌐 Website](https://sfoxesripper.github.io/SFRtool/)
-
-</div>
-
 ---
 
 <div align="center">
